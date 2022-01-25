@@ -7,7 +7,8 @@
  ![](images/retiremeny_titlesQ.PNG)
  
 - then used DISTINCT ON statement to create a table that contains the most recent title of each employee and created new table unique_titles
- ![](
+
+ ![](images/retiremeny_titlesQ.PNG)
 
 
 Then used the count() function to create a table that has the number of retirement-age employees by most recent job title.
