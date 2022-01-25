@@ -28,7 +28,8 @@
     
     retiring_title table:
     
-    ![](images/retirering_title%20table.PNG)
+   
+   ![](images/retirering_title%20table.PNG)
 
 
 - 
