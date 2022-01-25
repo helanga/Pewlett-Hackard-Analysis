@@ -17,7 +17,8 @@
  
  
  unique_titles table:
-
+ 
+ ![](images/unique_titles_table.PNG)
 
 Then used the count() function to create a table that has the number of retirement-age employees by most recent job title.
 
