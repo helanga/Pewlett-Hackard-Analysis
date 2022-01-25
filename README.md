@@ -5,17 +5,17 @@
 - created retirement_titles table that holds all the titles of employees who were born between January 1,1952 and December 31,1955.As I want to retrieve all records with titles table I used employees table RIGHT JOIN with titles table.
 
 
-     ![](images/retiremeny_titlesQ.PNG)
+     ![](images/retirement_titlesQ.PNG)
  
     retirements_title table:
     
-    ![](images/retiremeny_titles_table.PNG)
+    ![](images/retirement_titles_table.PNG)
    
 - Then used DISTINCT ON statement to create a table that contains the most recent title of each employee and created new table named unique_titles.
 
 - And then exclude those employees that have already left the company by filtering on to_date to keep only those dates that are equal to '9999-01-01'.
 
- ![](images/distinct%20titleQ.PNG)
+ ![](images/distinct titleQ.PNG)
  
  
  unique_titles table:
