@@ -22,10 +22,9 @@
  
  ![](images/unique_titles_table.PNG)
 
-- Finally wrote another query to retreive the number of employees by their most recent job titel who are about to retire.For that query used COUNT() on emp_no and GROUP BY title ,to retreive title wise count from unique_titles table.
+- Finally wrote statement to retreive the number of employees by their most recent job titel who are about to retire.For that query used COUNT() on emp_no and GROUP BY title ,to retreive title wise count from unique_titles table.
  
-- Then used the count() function to create a table that has the number of retirement-age employees by most recent job title.
-
+    ![]()
 
 
 - 
