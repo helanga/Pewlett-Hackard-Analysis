@@ -15,7 +15,7 @@
 
 - And then exclude those employees that have already left the company by filtering on to_date to keep only those dates that are equal to '9999-01-01'.
 
- ![](images/distinct titleQ.PNG)
+ ![](images/distinct%20titleQ.PNG)
  
  
  unique_titles table:
