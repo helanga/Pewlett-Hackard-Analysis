@@ -14,6 +14,9 @@
 - Then used DISTINCT ON statement to create a table that contains the most recent title of each employee and created new table named unique_titles.And exclude those employees that have already left the company by filtering on to_dat to keep only those dates that are equal to '9999-01-01'.
 
  ![](images/distinct%20titleQ.PNG)
+ 
+ 
+ unique_titles table:
 
 
 Then used the count() function to create a table that has the number of retirement-age employees by most recent job title.
