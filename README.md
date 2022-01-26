@@ -43,8 +43,9 @@ Wrote statement and create a mentorship-eligibility table that holds the current
 - In same statement again used INNER JOIN on titles and employee table to retrive title from titles tabel.
 
 - Used DISTINCT ON statement to retreive the first occurence of the employee number.
--
--Filtered the data on the to_date column to all the curent employees by using ,to_date = '9999-01-01'.And filter the data on the birth_date columns to get all the employees whose birth dates are between January 1, 1965 and December 31, 1965.
+- Filtered the data on the to_date column to all the curent employees by using ,to_date = '9999-01-01'.And filter the data on the birth_date columns to get all the employees whose birth dates are between January 1, 1965 and December 31, 1965.
 
-
+     ![](images/mentoshi_eligiQ.PNG)
+     
+     
 ## Summery
