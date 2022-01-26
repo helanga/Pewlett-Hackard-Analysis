@@ -1,6 +1,8 @@
 # Pewlett-Hackard-Analysis
 ## Overview of the analysis
 
+## Results
+
 ### Deliverable 1: The Number of Retiring Employees by Title
 - created retirement_titles table that holds all the titles of employees who were born between January 1,1952 and December 31,1955.As I want to retrieve all records with titles table I used employees table RIGHT JOIN with titles table.
 
@@ -32,6 +34,9 @@
      ![](images/retirering_title%20table.PNG)
 
 
+### Deliverable 2: The Employees Eligible for the Mentorship Program
+
+Wrote statement and create a mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965.
+
 - 
-## Results
 ## Summery
