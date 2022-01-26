@@ -49,6 +49,6 @@ Wrote statement and create a mentorship-eligibility table that holds the current
      
      mentoship_eligi table
      
-     ![](
+     ![](images/mentoshi_eligi_table.PNG)
      
 ## Summery
