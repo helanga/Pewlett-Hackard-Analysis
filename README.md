@@ -58,5 +58,7 @@ mentoship_eligi table
 
 2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-    By looking at the number of emloyees ritiring(72,458) and count of mentoship eligibility employees  1549 the ratio is 1:47 that is 1 mentor has to train 47 employees roughly.
-so there are not enough retirement ready employees to train next generation of Pewlett Hackard .
+    By looking at the number of emloyees ritiring(72,458) and count of mentoship eligibility employees  1549 the ratio is 1:47 that is 1 mentor has to train 47 mentees roughly.
+So there are not enough retirement ready employees to train next generation of Pewlett Hackard .
+
+ 
