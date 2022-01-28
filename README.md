@@ -54,9 +54,9 @@ mentoship_eligi table
 ## Summery
 1) How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-According to the above results ,72 458 employee positions need to be filled in very near future when silver tsunami begins to impact.
+   According to the above results ,72 458 employee positions need to be filled in very near future when silver tsunami begins to impact.
 
 2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-By looking at the number of emloyees ritiring(72,458) and count of mentoship eligibility employees  1549 the ratio is 1:47 that is 1 mentor has to train 47 employees roughly.
+    By looking at the number of emloyees ritiring(72,458) and count of mentoship eligibility employees  1549 the ratio is 1:47 that is 1 mentor has to train 47 employees roughly.
 so there are not enough retirement ready employees to train next generation of Pewlett Hackard .
