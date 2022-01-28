@@ -12,7 +12,7 @@ created retirement_titles table that holds all the titles of employees who were 
     
   ![](images/retirement_titles_table.PNG)
   
- -   this table has 133776 records.including duplicate values for same employee different titles. as a example emp_no 4 ,Chirstian is has 2 records with 2 titles Enginner and Senior Engineer.In 1986 he was a Engineer and then from 1995 He promoted to senior Engineer.So this table includes all employes each and every title from he/she joined to company till now.
+ -   This table has 133776 records including duplicate values for same employee with different titles. As an example emp_no 4, Chirstian, has two records in the table with 2 titles, one as Enginner and the other as Senior Engineer. In 1986 he was an Engineer and then promoted 1995 as a senior Engineer. So this table includes multiple entries for employes with different titles thet he/she hold since from the begining. 
      
      
 
