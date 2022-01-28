@@ -16,7 +16,7 @@ created retirement_titles table that holds all the titles of employees who were 
      
      
 
-Then used DISTINCT ON statement to create a table that contains the most recent title of each employee and created new table named unique_titles.And then exclude those employees that have already left the company by filtering on to_date to keep only those dates that are equal to '9999-01-01'.
+Used DISTINCT ON to filter the most recent title of each employee and put them into a new table called unique_titles. Further, exclude the employees those who have already left the company by filtering on "to_date" equal to '9999-01-01'.
 
 ![](images/distinct%20titleQ.PNG)
  
@@ -25,8 +25,7 @@ unique_titles table:
  
 ![](images/unique_titles_table.PNG)
 
- - this unique_titles table only has most recent titiele for current employees who's recently going to retire.
-so this only has 72458 records.
+ - The unique_titles table only contains most recent titiele for current employees those who recently will be retired, the table has only 72458 records.
 
 
 Finally wrote statement to retreive the number of employees by their most recent job titel who are about to retire.For that query used COUNT() on emp_no and GROUP BY title ,to retreive title wise count from unique_titles table.
