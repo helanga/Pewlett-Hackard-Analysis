@@ -28,7 +28,7 @@ unique_titles table:
  - The unique_titles table only contains most recent titiele for current employees those who recently will be retired, the table has only 72458 records.
 
 
-Finally wrote statement to retreive the number of employees by their most recent job titel who are about to retire.For that query used COUNT() on emp_no and GROUP BY title ,to retreive title wise count from unique_titles table.
+Finally, wrote a statement to retreive the number of employees by their most recent job titel who are about to retire. Used COUNT() on emp_no and GROUP BY title.
  
 ![](images/counttitleQ.PNG)
     
@@ -36,7 +36,7 @@ Finally wrote statement to retreive the number of employees by their most recent
     
 ![](images/retirering_title%20table.PNG)
 
-- From looking at this output at glance we can say how many employees going to retire for each title.i.e 25916 Senior Engineers going to be retire.and only 2 Managers going to be retire.According to the table we can say 70% of employees in this retiring_table is senior stafe.
+- From looking at this output at glance we can say how many employees going to retire for each title.i.e 25916 Senior Engineers and only 2 Managers going to be retire. According to the table 70% of employees is senior staff.
 
 ### Deliverable 2: The Employees Eligible for the Mentorship Program
 
