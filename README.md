@@ -25,7 +25,7 @@ unique_titles table:
  
 ![](images/unique_titles_table.PNG)
 
- - The unique_titles table only contains most recent titiele for current employees those who recently will be retired, the table has only 72458 records.
+ - The unique_titles table only contains most recent titiele for current employees those who recently will be retired, the table. has only 72458 records.So we can claerly say in near future 72458 numbers of employees will be retiring.
 
 
 Finally, wrote a statement to retreive the number of employees by their most recent job titel who are about to retire. Used COUNT() on emp_no and GROUP BY title.
@@ -36,7 +36,7 @@ Finally, wrote a statement to retreive the number of employees by their most rec
     
 ![](images/retirering_title%20table.PNG)
 
-- From looking at this output at glance we can say how many employees going to retire for each title.i.e 25916 Senior Engineers and only 2 Managers going to be retire. According to the table 70% of employees is senior staff.
+- From looking at this output at glance we can say how many employees going to retire for each title.i.e 25916 Senior Engineers and only 2 Managers going to be retire. According to the table 70% of employees is senior staff going to be retire..
 
 ### Deliverable 2: The Employees Eligible for the Mentorship Program
 
@@ -49,6 +49,6 @@ mentoship_eligi table
      
 ![](images/mentoshi_eligi_table.PNG)
 
-- this table shows detail of mentoship_eligibility employees.and it has count of 1549 records.Now then hierachy of company has to deside is there enough peole in mentoship_eleigibility programme to train new employees?
+- This table shows detail of mentoship_eligibility employees.and it has count of 1549 records.Now then hierachy of company has to deside is there enough peole in mentoship_eleigibility programme to train new employees?
 
 ## Summery
