@@ -6,12 +6,11 @@
 ### Deliverable 1: The Number of Retiring Employees by Title
 created retirement_titles table that holds all the titles of employees who were born between January 1,1952 and December 31,1955.As I want to retrieve all records with titles table I used employees table RIGHT JOIN with titles table.I used right join on titles table ,because one employee can have more than one title.
 
-
-     ![](images/retirement_titlesQ.PNG)
- 
-    retirements_title table:
+ ![](images/retirement_titlesQ.PNG)
+     
+  retirements_title table:
     
-     ![](images/retirement_titles_table.PNG)
+  ![](images/retirement_titles_table.PNG)
    
 - Then used DISTINCT ON statement to create a table that contains the most recent title of each employee and created new table named unique_titles.
 
