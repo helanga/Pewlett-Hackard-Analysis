@@ -65,14 +65,26 @@ select * from mentoship_eligi;
 
 
 --================================Summery=====================================
-select * from mentoship_eligi;
+SELECT COUNT(DISTINCT (e.emp_no)) as count,d.dept_name
+FROM employees e
+INNER JOIN dept_emp de
+ON e.emp_no = de.emp_no
+INNER JOIN departments d
+ON de.dept_no = d.dept_no
+where (e.birth_date BETWEEN '1952-01-01' AND '1955-12-31')
+AND de.to_date = '9999-01-01'
+GROUP BY d.dept_name
+ORDER BY count DESC
 
-select count(emp_no),title
-from mentoship_eligi
-group by title;
+SELECT COUNT(DISTINCT (e.emp_no)) as count,d.dept_name
+FROM employees e
+INNER JOIN dept_emp de
+ON e.emp_no = de.emp_no
+INNER JOIN departments d
+ON de.dept_no = d.dept_no
+where (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
+AND de.to_date = '9999-01-01'
 
-select count(DISTINCT emp_no)
-from mentoship_eligi;
 SELECT DISTINCT ON (e.emp_no) e.emp_no,
     e.first_name,
     e.last_name,
@@ -80,17 +92,14 @@ SELECT DISTINCT ON (e.emp_no) e.emp_no,
 	de.from_date,
 	de.to_date,
 	t.title
---INTO remain_emp
 FROM employees as e
 INNER JOIN dept_emp as de
 ON (e.emp_no = de.emp_no)
 INNER JOIN titles as t
 ON (e.emp_no = t.emp_no)
-WHERE (e.birth_date NOT BETWEEN '1965-01-01' AND '1965-12-31')
+WHERE (e.birth_date BETWEEN '1964-01-01' AND '1965-12-31')
 AND de.to_date = '9999-01-01'
 ORDER BY e.emp_no;
+GROUP BY d.dept_name ORDER BY COUNT DESC
 
-select * from remain_emp;
-select count(emp_no),title
-from remain_emp
-group by title;
+
