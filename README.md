@@ -66,7 +66,9 @@ mentoship_eligi table
      
 ![](images/mentoshi_eligi_table.PNG)
 
-- This table shows detail of mentoship_eligibility employees.and it has count of 1549 records.Now then hierachy of company has to deside is there enough peole in mentoship_eleigibility programme to train new employees?
+- This table shows detail of mentoship_eligibility employees.and it has count of 1549 records.
+
+- Now hierachy of company has to deside 72458 employes retiring and only 1548 employees eligible to take part in in mentoship_eleigibility programme.
 
 ## Summery
 1) How many roles will need to be filled as the "silver tsunami" begins to make an impact?
@@ -75,9 +77,9 @@ mentoship_eligi table
 
 2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-    By looking at the number of emloyees retiring(72,458) and count of mentoship eligibility employees (1549), the ratio is 1:47 that is 1 mentor has to train 47 mentees.
+    By looking at the number of emloyees retiring(72,458) and count of mentoship eligibility employees (1549), the ratio is 47:1.
     
-So there are not enough retirement ready employees to train next generation of Pewlett Hackard.
+So there is more than  enough retirement ready employees to train next generation of Pewlett Hackard.
 
 - Retreive retiirng employees and mentorship eligibility employees in Departmentwise
 
@@ -103,31 +105,31 @@ So there are not enough retirement ready employees to train next generation of P
      ![](images/deptwisementorT.PNG)
     
   
-  By looking at above 2 tables we can clearly see that there is no enough staff in mentoship legibility program to mentor the next generation of the company.
+  By looking at above 2 tables we can clearly see that there is more than  enough staff retiring staffe to train  mentoship eligibility employees. 
   
-  Development --> 396:18368 --> 1:46
+  Development --> 18368:396 --> 46:1
   
-  Production --> 322:16172 -->  1:50
+  Production --> 16172:322: -->  50:1
   
-  Sales --> 244:11336 --> 1:46
+  Sales --> 11336:244 --> 46:1
   
-  Customer Service --> 120:5320 --> 1:44
+  Customer Service --> 5320:120 --> 44:1
   
-  Research --> 103:4738 --> 1:46
+  Research --> 4738:103:--> 46:1
   
-  Quality Mamagement --> 86:4448 --> 1:51
+  Quality Mamagement --> 4448:86 --> 51:1
   
-  Marketing --> 117:4392 --> 1:37
+  Marketing --> 4392:117 --> 37:1
   
-  Human Resouces --> 97:3925 --> 1:33
+  Human Resouces --> 3925:97 --> 33:1
   
-  Finance --> 64:3759 --> 1:58
+  Finance --> 3759:64 --> 58:1
   
+  looking at above figures we can say there is more than enough retirement ready employees as mentors but mentees(mentoship eligibility employees) are very less.So highrachy of company has to think when retiring this many employees (72458) is it enough to train (1549) employees? I think with this less mentorshi eligibility employees "Knowledge Transfer" from retiring employees to mentees will not enough,we need more people in mentoreship elegibility programme.
   
 - Change critirea to select mentornship eligibility employees
   
-  Instead of selecting employees born 1965, select emplyees born 1964-1965, that returns 19905 employees. So if we chnge the critirea it's almost 1 mentor to 3 mentees to train.
-  
+  Instead of selecting employees born 1965, select emplyees born 1964-1965, that returns 19905 employees.
   - Query
   
    ![](images/mentorN.PNG)
