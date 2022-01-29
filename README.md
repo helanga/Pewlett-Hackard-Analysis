@@ -1,4 +1,21 @@
 # Pewlett-Hackard-Analysis
+
+Pewlett Hackard is a large company boasting several thousand employees and it’s been around for long time. As baby boomers begin to retire at a rapid rate Pewlett Hackard is looking toward the future in two ways. First, it’s offering retirement package for those who meet certain criteria. Second, it’s standing to think about which positions will need to be filled in near future. The number of upcoming retirements will leave thousands of job openings. What would happen to a company if they didn’t look ahead and prepare for this many vacancies? It probably wouldn’t be pretty. 
+
+Bobby is an up-and-coming HR Analyst whose task is to perform employee research. Specifically, he needs to find answers to the following questions, who will be retiring in the next few years, and how many positions will Pewlett Hackard need to fill? This analysis will help future-proof Pewlett Hackard by generating a list of all employees eligible for the retirement package. The employee data Bobby needs is only available in the format of six CSV files because Pewlett Hackard has been mainly using Excel and VBA to work with their data. But now they’ve finally decided to update their methods and instead use SQL, a definite upgrade considering the amount of data.
+
+I worked with Bobby to build an employee database with SQL by applying my data modelling, engineering and analysis skills. Then provided lists that are more specific.
+
+01.	Employee Information: A list of employees containing their unique employee number, their last name, first name, gender, and salary
+02.	Management: A list of managers for each department, including the department number, name, and the manager's employee number, last name, first name, and the starting and ending employment dates
+03.	Department Retirees: An updated current_emp list that includes everything it currently has, but also the employee's departments
+04.	Created a tailored list for sales and another tailored list for both Sales and Development teams. 
+
+After completing above tasks Bob and my self has been given other assignments to determine the number of retiring employees per title and identify employees who are eligible to participate in a mentorship program.
+Finally, complied a report that summarize my analysis and helps prepare Bobby’s manager for the “silver tsunami“ that many current employees reach retirement age.
+
+
+
 ## Overview of the analysis
 
 ## Results
