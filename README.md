@@ -75,5 +75,5 @@ So there are not enough retirement ready employees to train next generation of P
    ![](images/deptwiseretire.PNG)
    mentorship eligibility employees count down department wise
    
-   ![](
+   ![](images/feptwisementorship.PNG)
  
