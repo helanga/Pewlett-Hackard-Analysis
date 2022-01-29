@@ -130,6 +130,7 @@ So there is more than  enough retirement ready employees to train next generatio
 - Change critirea to select mentornship eligibility employees
   
   Instead of selecting employees born 1965, select emplyees born 1964-1965, that returns 19905 employees.
+  Now the ration for retiring employees 4:  1 (mentorship elegible employees)
   - Query
   
    ![](images/mentorN.PNG)
