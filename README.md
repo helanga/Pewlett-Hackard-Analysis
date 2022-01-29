@@ -69,4 +69,11 @@ So there are not enough retirement ready employees to train next generation of P
  
   looking at above 2 tables we can clearly there is no enough stafe in mentoship legibility program title wise to mentor the next generstion
   i.e there are only 435 senior engineer mentors to mentor 25916 mentees.and there are 2 managers retiring and no managers in mentoreship elegibility programme.
+  
+  - retiring employees count down departmentwise
+  - 
+   ![](
+   mentorship eligibility employees count down department wise
+   
+   ![](
  
