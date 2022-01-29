@@ -71,8 +71,8 @@ So there are not enough retirement ready employees to train next generation of P
   i.e there are only 435 senior engineer mentors to mentor 25916 mentees.and there are 2 managers retiring and no managers in mentoreship elegibility programme.
   
   - retiring employees count down departmentwise
-  - 
-   ![](
+  
+   ![](images/deptwiseretire.PNG)
    mentorship eligibility employees count down department wise
    
    ![](
