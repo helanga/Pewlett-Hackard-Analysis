@@ -54,14 +54,15 @@ mentoship_eligi table
 ## Summery
 1) How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-   According to the above results ,72 458 employee positions need to be filled in very near future when silver tsunami begins to impact.
+   According to the above results, 72 458 employee positions need to be filled in very near future when silver tsunami begins to impact. 70% of the employees are Senior staff and Senior Engineer.   
 
 2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-    By looking at the number of emloyees ritiring(72,458) and count of mentoship eligibility employees  1549 the ratio is 1:47 that is 1 mentor has to train 47 mentees roughly.
-So there are not enough retirement ready employees to train next generation of Pewlett Hackard .
+    By looking at the number of emloyees retiring(72,458) and count of mentoship eligibility employees (1549), the ratio is 1:47 that is 1 mentor has to train 47 mentees.
+    
+So there are not enough retirement ready employees to train next generation of Pewlett Hackard.
 
-- Departmentwise countdown retiirng employees /mentorship eligibility employees
+- Retreive retiirng employees and mentorship eligibility employees in Departmentwise
 
    - Departmentwise countdown retiirng employees
    
@@ -85,13 +86,30 @@ So there are not enough retirement ready employees to train next generation of P
      ![](images/deptwisementorT.PNG)
     
   
-  looking at above 2 tables we can clearly say there is no enough staff in mentoship legibility program to mentor the next generstion
-  i.e there are only 244 sales staff to mentor 11336 sales staffe.
+  By looking at above 2 tables we can clearly see that there is no enough staff in mentoship legibility program to mentor the next generation of the company.
   
-
-- change critirea to select mentornship eligibility employees
+  Development --> 396:18368 -->
   
-  Instead of selecting employees born 1965 if select 1964-1965 the output will be 19905 employees.So if we chnge the critirea it's almost 1 mentor to 3 mentees to train.
+  Production --> 322:16172 -->
+  
+  Sales --> 244:11336 -->
+  
+  Customer Service --> 120:5320 -->
+  
+  Research --> 103:4738 -->
+  
+  Quality Mamagement --> 86:4448 -->
+  
+  Marketing --> 117:4392 -->
+  
+  Human Resouces --> 97:3925 -->
+  
+  Finance --> 64:3759 -->
+  
+  
+- Change critirea to select mentornship eligibility employees
+  
+  Instead of selecting employees born 1965, select emplyees born 1964-1965, that returns 19905 employees. So if we chnge the critirea it's almost 1 mentor to 3 mentees to train.
   
   - Query
   
