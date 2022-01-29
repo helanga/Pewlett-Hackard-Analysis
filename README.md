@@ -65,28 +65,37 @@ So there are not enough retirement ready employees to train next generation of P
 
    - Departmentwise countdown retiirng employees
    
-    Query to calculate retiring employees count down departmentwise:
+     - Query to calculate retiring employees count down departmentwise:
 
-    ![](images/deptwiseretireQ.PNG)
+      ![](images/deptwiseretireQ.PNG)
 
  
-   - Retiring employee countdown:
+     - Retiring employee countdown:
  
-    ![](images/deptwiseretireT.PNG)
+     ![](images/deptwiseretireT.PNG)
     
- - Mentoship elegibility employees count down department wise
+   - Mentoship elegibility employees count down department wise
 
-   - Query
+     - Query
   
-    ![](images/deptwisementorQ.PNG)
+      ![](images/deptwisementorQ.PNG)
   
-   - Output:
+     - Output:
     
-    ![](images/deptwisementorT.PNG)
+     ![](images/deptwisementorT.PNG)
     
   
-  looking at above 2 tables we can clearly there is no enough staff in mentoship legibility program to mentor the next generstion
+  looking at above 2 tables we can clearly say there is no enough staff in mentoship legibility program to mentor the next generstion
   i.e there are only 244 sales staff to mentor 11336 sales staffe.
+  
+
+- change critirea to select mentornship eligibility employees
+  
+  Instead of selecting employees born 1965 if select 1964-1965 the output will be 19905 employees.So if we chnge the critirea it's almost 1 mentor to 3 mentees to train.
+  
+  - Query
+  
+   
   
  
  
