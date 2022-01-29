@@ -95,7 +95,7 @@ So there are not enough retirement ready employees to train next generation of P
   
   - Query
   
-   
+   ![](images/mentorN.PNG)
   
  
  
