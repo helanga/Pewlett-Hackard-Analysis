@@ -66,9 +66,10 @@ mentoship_eligi table
      
 ![](images/mentoshi_eligi_table.PNG)
 
-- This table shows detail of mentoship_eligibility employees.and it has count of 1549 records.
+- This table shows details of the mentoship_eligibility employees and it has count of 1549 records.
 
-- Now hierachy of company has to deside 72458 employes retiring and only 1548 employees eligible to take part in in mentoship_eleigibility programme.
+- So 72458 employes retiring and only 1548 employees eligible to take part in in mentoship_eleigibility programme, Now the higher management of the company needs to deside weather it needs to increase the number of employees eligible to take part in in mentoship_eleigibility programme.   
+
 
 ## Summery
 1) How many roles will need to be filled as the "silver tsunami" begins to make an impact?
@@ -105,7 +106,7 @@ So there is more than  enough retirement ready employees to train next generatio
      ![](images/deptwisementorT.PNG)
     
   
-  By looking at above 2 tables we can clearly see that there is more than  enough staff retiring staffe to train  mentoship eligibility employees. 
+  By looking at above 2 tables in each department, there are more emmployees to be retired than employees eligible for mentoring program. See below ratio for each demarment on retirimng : mentoring eligibilitiy employees.   
   
   Development --> 18368:396 --> 46:1
   
@@ -125,9 +126,9 @@ So there is more than  enough retirement ready employees to train next generatio
   
   Finance --> 3759:64 --> 58:1
   
-  looking at above figures we can say there is more than enough retirement ready employees as mentors but mentees(mentoship eligibility employees) are very less.So highrachy of company has to think when retiring this many employees (72458) is it enough to train (1549) employees? I think with this less mentorshi eligibility employees "Knowledge Transfer" from retiring employees to mentees will not enough,we need more people in mentoreship elegibility programme.
+  By looking at above figures we can say there are more than enough retirement ready employees as mentors but mentees(mentoship eligibility employees) are very less. So highrer management of the company has to decide how to increase the number of employees for mentoring eligibility.   Since 72458 retiring, it will not enough 1549 employees to take part of the knowladge transfer process. 
   
-- Change critirea to select mentornship eligibility employees
+- Change critirea to select more mentornship eligibility employees
   
   Instead of selecting employees born 1965, select emplyees born 1964-1965, that returns 19905 employees.
   Now the ration for retiring employees 4:  1 (mentorship elegible employees)
