@@ -88,23 +88,23 @@ So there are not enough retirement ready employees to train next generation of P
   
   By looking at above 2 tables we can clearly see that there is no enough staff in mentoship legibility program to mentor the next generation of the company.
   
-  Development --> 396:18368 -->
+  Development --> 396:18368 --> 1:46
   
-  Production --> 322:16172 -->
+  Production --> 322:16172 -->  1:50
   
-  Sales --> 244:11336 -->
+  Sales --> 244:11336 --> 1:46
   
-  Customer Service --> 120:5320 -->
+  Customer Service --> 120:5320 --> 1:44
   
-  Research --> 103:4738 -->
+  Research --> 103:4738 --> 1:46
   
-  Quality Mamagement --> 86:4448 -->
+  Quality Mamagement --> 86:4448 --> 1:51
   
-  Marketing --> 117:4392 -->
+  Marketing --> 117:4392 --> 1:37
   
-  Human Resouces --> 97:3925 -->
+  Human Resouces --> 97:3925 --> 1:33
   
-  Finance --> 64:3759 -->
+  Finance --> 64:3759 --> 1:58
   
   
 - Change critirea to select mentornship eligibility employees
